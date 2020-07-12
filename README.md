@@ -16,6 +16,8 @@ providing the required QoS for each class in terms of the PDR (packet delivery r
 MATLAB implementation of the the performance analysis of MAC scheme for quality of service (QoS)-aware and cluster-based underwater acoustic sensor
 networks.
 
+Underlying MAC protocols used for this analysis are Aloha_AR and CSMA-AR. Implementation of these schemes can be retrieved from our repository: https://github.com/tha061/Adaptive-Retransmission-Scheme-for-Contention-Based-MAC-Protocol-for-UASN.git.
+
 ### RELATED PUBLICATION: 
 
 Thi-Tham Nguyen, Duc Van Le, Seokhoon Yoon, Maximization of the Supportable Number of Sensors in QoS-Aware Cluster-Based Underwater Acoustic Sensor Networks. Sensors 14(3): 4689-4711 (2014)
